@@ -23,3 +23,4 @@ wechat：nihaozzb
     - 所有员工提交数据的操作都会记录日志
     - 按不同角色授权
 
+<img src="https://raw.githubusercontent.com/nihaozzb/bossshop/main/%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg" width="30%">
