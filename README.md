@@ -1,4 +1,4 @@
-# Bossshop大老板跨境电商利润统计分析系统
+# Bossshop大老板跨境电商利润统计分析系统（整合shopify、shoplazza、Facebook等）
   - 整合shopify(虾皮)、shoplazza（店匠）等跨境第三方店铺的订单进行成本利润统计分析的系统
   - 接入Facebook等广告平台进行广告成本核算
   - 定制开发、独立部署，避免使用又当裁判又当运动员的平台软件 
